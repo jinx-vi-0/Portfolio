@@ -185,10 +185,10 @@ const skills = {
         {
           skillName: "Git",
           fontAwesomeClassname: "fa-git-alt",
-          style: {
-            backgroundColor: "#000000",
-            color: "#f40101",
-          },
+          // style: {
+          //   backgroundColor: "#000000",
+          //   color: "#f40101",
+          // },
         },
         {
           skillName: "Postman",
@@ -404,7 +404,7 @@ const competitiveSites = {
     {
       siteName: "LeetCode",
       // iconifyClassname: "simple-icons:leetcode",
-      imageSrc: "leetcode.png",
+      logo_path: "leetcode.png",
       // style: {
       //   color: "#F79F1B",
       // },
