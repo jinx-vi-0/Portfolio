@@ -621,7 +621,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have made significant contributions to the education sector by working with an online coaching company as a DSA (Data Structures and Algorithms) tutor. My commitment to the open-source ethos extends beyond mere participation; I've actively contributed to various projects and engaged in community initiatives like Caffeine and Code and Social Summer of Code. Through these experiences, I've honed not only my technical skills but also my ability to collaborate effectively and drive meaningful change within diverse environments.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -769,7 +769,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Full Stack projects and deploy them to web applications using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
