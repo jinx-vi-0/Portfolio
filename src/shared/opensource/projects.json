@@ -23,9 +23,8 @@
       "isFork": false,
       "languages": [
         {
-          "name": "DiscordJs",
-          "skill-icons": "discordbots",
-          "iconifyClass": "logos-discordbots"
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     },
