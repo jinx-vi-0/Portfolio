@@ -621,7 +621,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have made significant contributions to the education sector by working with an online coaching company as a DSA (Data Structures and Algorithms) tutor. My commitment to the open-source ethos extends beyond mere participation; I've actively contributed to various projects and engaged in community initiatives like Caffeine and Code and Social Summer of Code. Through these experiences, I've honed not only my technical skills but also my ability to collaborate effectively and drive meaningful change within diverse environments.",
+    "I have made significant contributions to the education sector by working with an online coaching company as a DSA tutor. I have also actively contributed to various projects and engaged in community initiatives like Caffeine and Code and Social Summer of Code. Through these experiences, I've honed not only my technical skills but also my ability to collaborate effectively and drive meaningful change within diverse environments.",
   header_image_path: "experience.svg",
   sections: [
     {
