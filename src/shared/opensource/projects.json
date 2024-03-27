@@ -9,16 +9,8 @@
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "React",
+          "iconifyClass": "logos-react"
         }
       ]
     },
@@ -31,8 +23,8 @@
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "DiscordJs",
+          "iconifyClass": "logos-discordjs"
         }
       ]
     },
@@ -45,12 +37,12 @@
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "NodeJs",
+          "iconifyClass": "logos-nodejs"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
         }
       ]
     },
@@ -63,12 +55,12 @@
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "NodeJs",
+          "iconifyClass": "logos-nodejs"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "MongoDB",
+          "iconifyClass": "logos-mongodb"
         }
       ]
     },
@@ -109,6 +101,10 @@
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     }
