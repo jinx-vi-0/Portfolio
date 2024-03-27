@@ -196,7 +196,7 @@ const skills = {
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "fa-node",
+          fontAwesomeClassname: "fa6-brands:node",
           style: {
             color: "#458802",
           },
