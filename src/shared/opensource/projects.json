@@ -4,8 +4,8 @@
       "id": "R_kgDOLlJ8oA",
       "name": "codeforces-worth",
       "createdAt": "2024-03-25T10:12:56Z",
-      "url": "https://github.com/jinx-vi-0/codeforces-worth",
-      "description": null,
+      "url": "https://codeforce-worth.vercel.app/",
+      "description": "See how much your codeforces worth",
       "isFork": false,
       "languages": [
         {
@@ -19,12 +19,13 @@
       "name": "gpt-bot",
       "createdAt": "2024-03-26T18:40:35Z",
       "url": "https://github.com/jinx-vi-0/gpt-bot",
-      "description": null,
+      "description": "Discord bot powered by OPENAI, designed to enhance your server's experience.",
       "isFork": false,
       "languages": [
         {
           "name": "DiscordJs",
-          "iconifyClass": "logos-discordjs"
+          "skill-icons": "discordbots",
+          "iconifyClass": "logos-discordbots"
         }
       ]
     },
@@ -33,7 +34,7 @@
       "name": "BlogLog",
       "createdAt": "2024-03-26T18:57:44Z",
       "url": "https://github.com/jinx-vi-0/BlogLog",
-      "description": null,
+      "description": "BlogLog - Your personalized blogging companion.",
       "isFork": false,
       "languages": [
         {
@@ -51,7 +52,7 @@
       "name": "User-Management-System",
       "createdAt": "2024-03-24T14:02:31Z",
       "url": "https://github.com/jinx-vi-0/User-Management-System",
-      "description": null,
+      "description": "Effortlessly organize and oversee users.",
       "isFork": false,
       "languages": [
         {
@@ -69,7 +70,7 @@
       "name": "Digital-Showcase",
       "createdAt": "2023-11-23T16:41:42Z",
       "url": "https://github.com/jinx-vi-0/Digital-Showcase",
-      "description": null,
+      "description": "Interactive showcase of my professional journey.",
       "isFork": false,
       "languages": [
         {
