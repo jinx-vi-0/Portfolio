@@ -403,20 +403,18 @@ const competitiveSites = {
   competitiveSites: [
     {
       siteName: "LeetCode",
-      // iconifyClassname: "simple-icons:leetcode",
-      logo_path: "leetcode.png",
-      // style: {
-      //   color: "#F79F1B",
-      // },
+      iconifyClassname: "simple-icons:leetcode",
+      style: {
+        color: "#F79F1B",
+      },
       profileLink: "https://leetcode.com/jinx_vi/",
     },
     {
       siteName: "Codeforces",
-      // iconifyClassname: "simple-icons:codeforces",
-      // style: {
-      //   color: "#1F8ACB",
-      // },
-      imageSrc: "code-forces.png",
+      iconifyClassname: "simple-icons:codeforces",
+      style: {
+        color: "#1F8ACB",
+      },
       profileLink: "https://codeforces.com/profile/jinx_vi",
     },
     {
@@ -437,11 +435,10 @@ const competitiveSites = {
     // },
     {
       siteName: "GfG",
-      // iconifyClassname: "simple-icons:hackerearth",
-      // style: {
-      //   color: "#323754",
-      // },
-      imageSrc: "gfg.png",
+      iconifyClassname: "simple-icons:geeksforgeeks",
+      style: {
+        color: "#2F8D46",
+      },
       profileLink: "https://auth.geeksforgeeks.org/user/jinx_vi",
     },
     // {
