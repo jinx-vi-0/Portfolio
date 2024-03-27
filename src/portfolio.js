@@ -140,9 +140,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building full stack web applications",
+        "⚡ Turning ideas into innovative web applications",
+        "⚡ Creating application backend in Node, Express",
       ],
       softwareSkills: [
         {
@@ -182,14 +182,7 @@ const skills = {
           //   // color: "#F7DF1E",
           // },
         },
-        {
-          skillName: "Git",
-          fontAwesomeClassname: "fa-git-alt",
-          // style: {
-          //   backgroundColor: "#000000",
-          //   color: "#f40101",
-          // },
-        },
+        
         {
           skillName: "Postman",
           imageSrc: "postman.png",
@@ -203,9 +196,9 @@ const skills = {
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "fa-node-js",
+          fontAwesomeClassname: "fa-node",
           style: {
-            color: "#198d02",
+            color: "#458802",
           },
         },
         {
@@ -274,9 +267,9 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "⚡ Hosting and maintaining websites on virtual machine instances",
         // "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa.",
+        "⚡ Experience working with integration of databases",
       ],
       softwareSkills: [
         {
@@ -470,7 +463,7 @@ const degrees = {
       duration: "2021 - 2025",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, OOPS, CN etc.",
-        "⚡ Apart from this, I have done courses on Cloud Computing and Full Stack Development.",
+        "⚡ Apart from this, I have done courses on Java programming and Full Stack Development.",
         // "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
       website_link: "https://iem.edu.in/",
