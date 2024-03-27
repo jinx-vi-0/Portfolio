@@ -405,7 +405,7 @@ const competitiveSites = {
       siteName: "LeetCode",
       iconifyClassname: "simple-icons:leetcode",
       style: {
-        color: "#F79F1B",
+        color: "#FFA116",
       },
       profileLink: "https://leetcode.com/jinx_vi/",
     },
@@ -453,7 +453,7 @@ const competitiveSites = {
       siteName: "HackerRank",
       iconifyClassname: "simple-icons:hackerrank",
       style: {
-        color: "#2EC866",
+        color: "#00EA64",
       },
       profileLink: "https://www.hackerrank.com/profile/jinx_vi",
     },
