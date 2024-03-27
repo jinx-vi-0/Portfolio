@@ -829,7 +829,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "kilua.png",
     description:
       "Feel free to reach out to me. Whether it's a question, a project you need guidance on web development, open source projects, competitive programming, data structure and algorithms, or just a friendly chat about tech, I'm all ears! Looking forward to hearing from you soon.",
   },
