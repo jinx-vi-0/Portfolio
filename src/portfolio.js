@@ -829,27 +829,28 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "kilua.png",
+    profile_image_path: "animated_ashutosh.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
-  // blogSection: {
-  //   title: "Blogs",
-  //   subtitle:
-  //     "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-  //   link: "https://blogs.ashutoshhathidara.com/",
-  //   avatar_image_path: "blogs_image.svg",
-  // },
+  blogSection: {
+    title: "Blogs",
+    subtitle:
+      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+    link: "https://blogs.ashutoshhathidara.com/",
+    avatar_image_path: "blogs_image.svg",
+  },
   addressSection: {
     title: "Address",
-    subtitle: "Sector-V, Salt Lake, Kolkata, West Bengal - 700091",
-    locality: "Salt Lake",
+    subtitle:
+      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+    locality: "Kanodar",
     country: "IN",
-    region: "Kolkata",
-    postalCode: "700091",
-    streetAddress: "Sector-V",
+    region: "Gujarat",
+    postalCode: "385520",
+    streetAddress: "Ambavadi vas",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/DgB6XSCMjufia7v1A",
+    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
     title: "",
