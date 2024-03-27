@@ -842,15 +842,14 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
+    subtitle: "Sector-V, Salt Lake, Kolkata, West Bengal - 700091",
+    locality: "Salt Lake",
     country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+    region: "Kolkata",
+    postalCode: "700091",
+    streetAddress: "Sector-V",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://maps.app.goo.gl/DgB6XSCMjufia7v1A",
   },
   phoneSection: {
     title: "",
