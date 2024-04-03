@@ -24,7 +24,7 @@ const greeting = {
   // nickname: "jinx_vi",
   subTitle:
     "A passionate full-stack developer dedicated  to turning ideas into cutting-edge web applications. With a passion for innovation and problem-solving, I excel at crafting intuitive, dynamic solutions that exceed expectations.",
-  resumeLink: "",
+  resumeLink: "https://drive.google.com/file/d/1WaiJEBJHe4j7g9HiXlU-V5BI6MuYyIRb/view?usp=sharing",
   portfolio_repository: "https://github.com/jinx-vi-0/masterPortfolio",
   githubProfile: "https://github.com/jinx-vi-0",
 };
