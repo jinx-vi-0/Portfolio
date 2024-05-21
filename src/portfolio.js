@@ -623,7 +623,7 @@ const experience = {
           company: "Knights Institute of Technology",
           // company_url: "https://legatohealthtech.com/",
           logo_path: "teacher.png",
-          duration: "Feb 2024 - PRESENT",
+          duration: "Feb 2024 - Apr 2024",
           location: "Remote",
           description:
             "In an online coaching environment, I taught Data Structures and Algorithms, developing comprehensive course materials encompassing lecture slides, assignments, and exams. I also offered personalized feedback and guidance to students to ensure their understanding and mastery of concepts. Additionally, I actively engaged with them to provide support and foster comprehension.",
@@ -827,7 +827,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I write tech blogs aiming to empower readers with impactful lessons, fostering fundamental changes in their understanding, ultimately enhancing their individual growth.",
-    link: "https://codeforces.com/blog/jinx_vi",
+    link: "https://jinxvi.hashnode.dev/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
